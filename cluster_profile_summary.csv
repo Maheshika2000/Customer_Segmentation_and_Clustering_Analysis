@@ -1,0 +1,5 @@
+,Recency,Recency,Frequency,Frequency,Monetary,Monetary,AvgBasketSize,AvgBasketSize,AvgOrderValue,AvgOrderValue
+,mean,median,mean,median,mean,median,mean,median,mean,median
+Cluster,,,,,,,,,,
+0,92.15,50.0,4.96,3.0,1650.09,646.68,194.97,136.67,312.03,236.57
+1,28.57,8.0,77.0,62.0,156774.34,132572.62,1344.99,1034.23,2721.64,3408.77
